@@ -35,7 +35,6 @@ int main()
 		cout << '\n';
 	} 
 	while (next_permutation(arr, arr + N));
-	// next_permutation을 사용할때, arr은 int 배열이어야함
 
 	return 0;
 }
