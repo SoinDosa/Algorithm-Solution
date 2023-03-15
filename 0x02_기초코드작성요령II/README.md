@@ -1,4 +1,4 @@
-| 문제 분류 | 문제 | 문제 제목 | 풀이여부 |
+| 문제 분류 | 문제 | 문제 제목 | 풀이 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | <ul><li>- [x] </li></ul> |
