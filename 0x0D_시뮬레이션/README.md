@@ -6,7 +6,7 @@
 | 연습 문제 | 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 13335 | [트럭](https://www.acmicpc.net/problem/13335) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 16985 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | <ul><li>- [ ] </li></ul> |
