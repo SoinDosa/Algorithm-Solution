@@ -9,7 +9,7 @@
 | 연습 문제 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 12852 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | <ul><li>- [X] </li></ul> |
-| 기본 문제✔ | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | <ul><li>- [ ] </li></ul> |
