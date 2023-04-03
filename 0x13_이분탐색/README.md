@@ -5,7 +5,7 @@
 | 연습 문제 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | <ul><li>- [x] </li></ul> |
-| 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | <ul><li>- [ ] </li></ul> |
+| 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 1822 | [차집합](https://www.acmicpc.net/problem/1822) | <ul><li>- [ ] </li></ul> |
