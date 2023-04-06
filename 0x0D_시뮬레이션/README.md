@@ -17,8 +17,8 @@
 | 기본 문제✔ | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <ul><li>- [ ] </li></ul> |
-| 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <ul><li>- [x] </li></ul> |
+| 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | <ul><li>- [ ] </li></ul> |
