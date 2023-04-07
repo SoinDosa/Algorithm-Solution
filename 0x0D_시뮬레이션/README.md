@@ -19,7 +19,7 @@
 | 기본 문제✔ | 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | <ul><li>- [ ] </li></ul> |
@@ -59,6 +59,6 @@
 | 기본 문제 | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 23288 | [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 23289 | [온풍기 안녕!](https://www.acmicpc.net/problem/23289) | <ul><li>- [ ] </li></ul> |
-| 기본 문제 | 23290 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) | <ul><li>- [ ] </li></ul> |
-| 기본 문제 | 23291 | [어항 정리](https://www.acmicpc.net/problem/23291) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 23290 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) | <ul><li>- [x] </li></ul> |
+| 기본 문제 | 23291 | [어항 정리](https://www.acmicpc.net/problem/23291) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 2478 | [자물쇠](https://www.acmicpc.net/problem/2478) | <ul><li>- [ ] </li></ul> |
