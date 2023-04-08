@@ -58,7 +58,7 @@
 | 기본 문제 | 21610 | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 23288 | [주사위 굴리기 2](https://www.acmicpc.net/problem/23288) | <ul><li>- [ ] </li></ul> |
-| 기본 문제 | 23289 | [온풍기 안녕!](https://www.acmicpc.net/problem/23289) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 23289 | [온풍기 안녕!](https://www.acmicpc.net/problem/23289) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 23290 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 23291 | [어항 정리](https://www.acmicpc.net/problem/23291) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 2478 | [자물쇠](https://www.acmicpc.net/problem/2478) | <ul><li>- [ ] </li></ul> |
