@@ -4,7 +4,7 @@
 | 연습 문제 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | <ul><li>- [x] </li></ul> |
 | 연습 문제 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 2660 | [회장뽑기](https://www.acmicpc.net/problem/2660) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | <ul><li>- [ ] </li></ul> |
