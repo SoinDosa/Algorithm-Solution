@@ -16,7 +16,7 @@
 | 기본 문제✔ | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 6603 | [로또](https://www.acmicpc.net/problem/6603) | <ul><li>- [x] </li></ul> |
-| 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | <ul><li>- [x] </li></ul> |
 | 응용 문제 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | <ul><li>- [ ] </li></ul> |
