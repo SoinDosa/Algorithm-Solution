@@ -9,7 +9,7 @@
 | 기본 문제✔ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 13335 | [트럭](https://www.acmicpc.net/problem/13335) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 16985 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 16985 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 3190 | [뱀](https://www.acmicpc.net/problem/3190) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | <ul><li>- [x] </li></ul> |
