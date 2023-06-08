@@ -14,7 +14,7 @@
 | 기본 문제 | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | <ul><li>- [x] </li></ul> |
-| 기본 문제 | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <ul><li>- [ ] </li></ul> |
 | 응용 문제✔ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | <ul><li>- [x] </li></ul> |
