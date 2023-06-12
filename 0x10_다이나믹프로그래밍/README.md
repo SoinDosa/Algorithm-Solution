@@ -12,7 +12,7 @@
 | 기본 문제✔ | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <ul><li>- [ ] </li></ul> |
 | 기본 문제✔ | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | <ul><li>- [ ] </li></ul> |
