@@ -10,4 +10,4 @@
 | 기본 문제✔ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | <ul><li>- [x] </li></ul> |
-| 응용 문제 | 14956 | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956) | <ul><li>- [ ] </li></ul> |
+| 응용 문제 | 14956 | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956) | <ul><li>- [x] </li></ul> |
