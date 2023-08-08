@@ -7,7 +7,7 @@
 | 기본 문제✔ | 21940 | [가운데에서 만나기](https://www.acmicpc.net/problem/21940) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 17182 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 13168 | [내일로 여행](https://www.acmicpc.net/problem/13168) | <ul><li>- [x] </li></ul> |
-| 응용 문제✔ | 1956 | [운동](https://www.acmicpc.net/problem/1956) | <ul><li>- [ ] </li></ul> |
+| 응용 문제✔ | 1956 | [운동](https://www.acmicpc.net/problem/1956) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 11562 | [백양로 브레이크](https://www.acmicpc.net/problem/11562) | <ul><li>- [ ] </li></ul> |
 | 응용 문제✔ | 1507 | [궁금한 민호](https://www.acmicpc.net/problem/1507) | <ul><li>- [ ] </li></ul> |
 | 응용 문제✔ | 1719 | [택배](https://www.acmicpc.net/problem/1719) | <ul><li>- [ ] </li></ul> |
