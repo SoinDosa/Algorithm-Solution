@@ -12,8 +12,8 @@
 | 기본 문제✔ | 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | <ul><li>- [ ] </li></ul> |
-| 기본 문제✔ | 9613 | [GCD 합](https://www.acmicpc.net/problem/9613) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | <ul><li>- [x] </li></ul> |
+| 기본 문제✔ | 9613 | [GCD 합](https://www.acmicpc.net/problem/9613) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 10610 | [30](https://www.acmicpc.net/problem/10610) | <ul><li>- [ ] </li></ul> |
