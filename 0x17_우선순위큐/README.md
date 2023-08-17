@@ -7,5 +7,5 @@
 | 기본 문제✔ | 2075 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 13975 | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | <ul><li>- [x] </li></ul> |
-| 응용 문제✔ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <ul><li>- [ ] </li></ul> |
+| 응용 문제✔ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <ul><li>- [x] </li></ul> |
 | 응용 문제✔ | 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | <ul><li>- [ ] </li></ul> |
