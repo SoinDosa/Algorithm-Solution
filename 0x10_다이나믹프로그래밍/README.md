@@ -17,7 +17,7 @@
 | 기본 문제✔ | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | <ul><li>- [x] </li></ul> |
-| 기본 문제✔ | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <ul><li>- [ ] </li></ul> |
+| 기본 문제✔ | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | <ul><li>- [ ] </li></ul> |
