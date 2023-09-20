@@ -25,7 +25,7 @@
 | 응용 문제 | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | <ul><li>- [x] </li></ul> |
 | 응용 문제 | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | <ul><li>- [x] </li></ul> |
 | 응용 문제 | 16933 | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) | <ul><li>- [ ] </li></ul> |
-| 응용 문제 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | <ul><li>- [ ] </li></ul> |
+| 응용 문제 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | <ul><li>- [x] </li></ul> |
 | 응용 문제 | 11967 | [불켜기](https://www.acmicpc.net/problem/11967) | <ul><li>- [ ] </li></ul> |
 | 응용 문제 | 17071 | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | <ul><li>- [ ] </li></ul> |
 | 응용 문제 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <ul><li>- [ ] </li></ul> |
