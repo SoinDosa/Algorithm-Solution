@@ -20,7 +20,7 @@
 | 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <ul><li>- [x] </li></ul> |
 | 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <ul><li>- [x] </li></ul> |
-| 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <ul><li>- [ ] </li></ul> |
