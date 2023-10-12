@@ -23,7 +23,7 @@
 | 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | <ul><li>- [x] </li></ul> |
-| 기본 문제 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 17141 | [연구소 2](https://www.acmicpc.net/problem/17141) | <ul><li>- [ ] </li></ul> |
