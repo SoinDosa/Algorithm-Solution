@@ -12,7 +12,7 @@
 | 기본 문제✔ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | <ul><li>- [ ] </li></ul> |
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | <ul><li>- [ ] </li></ul> |
-| 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | <ul><li>- [ ] </li></ul> |
+| 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | <ul><li>- [x] </li></ul> |
 | 기본 문제 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | <ul><li>- [ ] </li></ul> |
 | 응용 문제✔ | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | <ul><li>- [ ] </li></ul> |
 | 응용 문제✔ | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | <ul><li>- [ ] </li></ul> |
